@@ -1,0 +1,33 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0055j000004asXfAAI",
+      "createdByName": "Prasad Gangavarapu",
+      "createdDate": "2022-12-28T06:13:04.000Z",
+      "fileName": "customPermissions/SBQQ__HideGlobalHeader.customPermission",
+      "fullName": "SBQQ__HideGlobalHeader",
+      "id": "0CP5j000000cHZjGAM",
+      "lastModifiedById": "0055j000004asXfAAI",
+      "lastModifiedByName": "Prasad Gangavarapu",
+      "lastModifiedDate": "2022-12-28T06:13:04.000Z",
+      "manageableState": "installed",
+      "namespacePrefix": "SBQQ",
+      "type": "CustomPermission"
+    },
+    {
+      "createdById": "0055j000004asXfAAI",
+      "createdByName": "Prasad Gangavarapu",
+      "createdDate": "2022-12-28T06:13:04.000Z",
+      "fileName": "customPermissions/SBQQ__CPQStandardPerm.customPermission",
+      "fullName": "SBQQ__CPQStandardPerm",
+      "id": "0CP5j000000cHZiGAM",
+      "lastModifiedById": "0055j000004asXfAAI",
+      "lastModifiedByName": "Prasad Gangavarapu",
+      "lastModifiedDate": "2022-12-28T06:13:04.000Z",
+      "manageableState": "installed",
+      "namespacePrefix": "SBQQ",
+      "type": "CustomPermission"
+    }
+  ]
+}
